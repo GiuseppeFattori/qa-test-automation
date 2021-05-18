@@ -15,6 +15,7 @@ O Objetivo do teste consiste em validar Login, senhas, emails e posiveis Falhas 
 **Como o projeto está organizado.
 
 qa-test-automation-ui/
+
 ├── Gemfile
 ├── Gemfile.lock
 ├── cucumber.yml
