@@ -16,52 +16,8 @@ O Objetivo do teste consiste em validar Login, senhas, emails e posiveis Falhas 
 
 TESTE/
 
-└───qa-test-automation-ui
-    │   .gitattributes
-    │   cucumber.yml
-    │   Gemfile
-    │   Gemfile.lock
-    │   LICENSE
-    │   README.md
-    │
-    ├───features
-    │   ├───pages
-    │   │       adicionar_retirar_page.rb
-    │   │       cartoes_page.rb
-    │   │       criar_usuario_page.rb
-    │   │       editor_de_usuario_page.rb
-    │   │       endereço_page.rb
-    │   │       login_page.rb
-    │   │
-    │   ├───specs
-    │   │       adicionar_e_retirar.feature
-    │   │       cartoes.feature
-    │   │       criando_usuario.feature
-    │   │       editor_de_usuario.feature
-    │   │       endereço.feature
-    │   │       login.feature
-    │   │
-    │   ├───step_definitions
-    │   │       adicionar_e_retirar.rb
-    │   │       cartoes.rb
-    │   │       criando_usuario.rb
-    │   │       editor_de_usuario.rb
-    │   │       endereço.rb
-    │   │       login.rb
-    │   │
-    │   └───support
-    │       │   env.rb
-    │       │   hooks.rb
-    │       │   page_helper.rb
-    │       │
-    │       └───ambientes
-    │               homolog.yml
-    │
-    └───report
-        └───screenshots
-                adicionar_item.png
-                login_usuario.png
-                
+![github img](https://user-images.githubusercontent.com/84185822/118703419-72bbb080-b7ec-11eb-963f-90cd60e67a92.png)
+
 **Reaproveitamento dos métodos**
 Todos os métodos que forem iguais entre as plataformas devem estar em módulos e incluídos nas screens que fizerem sentido, como no exemplo abaixo:
 
@@ -76,3 +32,4 @@ module ExampleModule
   end
   
 end
+
