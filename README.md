@@ -31,3 +31,5 @@ Todos os métodos que forem iguais entre as plataformas devem estar em módulos 
 
 ![3](https://user-images.githubusercontent.com/84185822/118704905-fb871c00-b7ed-11eb-83b2-cdb2a5a2eac8.png)
 
+**Configuração do projeto para executar**
+
