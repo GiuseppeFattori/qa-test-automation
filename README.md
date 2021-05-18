@@ -1,3 +1,5 @@
+![3](https://user-images.githubusercontent.com/84185822/118704800-e1e5d480-b7ed-11eb-9285-a8bc92b962c3.png)
+![3](https://user-images.githubusercontent.com/84185822/118704828-e7431f00-b7ed-11eb-9824-6864ba36431b.png)
 # _QA - Automação_
 
 **Requisitos para o Teste**.
