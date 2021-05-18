@@ -12,7 +12,7 @@
 
 O Objetivo do teste consiste em validar Login, senhas, emails e posiveis Falhas no preenchimento de campos **_OBRIGATORIOS_**.
 
-**Como o projeto está organizado.
+**Como o projeto está organizado.**
 
 qa-test-automation-ui/
 
