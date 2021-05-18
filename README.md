@@ -1,6 +1,6 @@
-## QA - Automação
+# _QA - Automação_
 
-#**Requisitos para o teste**
+**Requisitos para o teste**
 * Ruby
 * Cucumber
 * Capybara
