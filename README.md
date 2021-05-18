@@ -18,17 +18,14 @@ O Objetivo do teste consiste em validar Login, senhas, emails e posiveis Falhas 
 
 
 **Reaproveitamento dos métodos**
+
 Todos os métodos que forem iguais entre as plataformas devem estar em módulos e incluídos nas screens que fizerem sentido, como no exemplo abaixo:
 
 **Modulo:**
 
-module ExampleModule
-	
-  def confirm_action
-    enter('Outro teste', email_field)
-    enter('1199990000', phone_field)
-    wait_for_element_then_touch(btn_confirm)
-  end
-  
-end
+![2](https://user-images.githubusercontent.com/84185822/118704430-7e5ba700-b7ed-11eb-953f-bce127be779d.png)
+
+**Classes:**
+
+
 
