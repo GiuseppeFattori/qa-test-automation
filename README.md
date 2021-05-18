@@ -1,2 +1,2 @@
-# qa-test-automation-ui
+# QA - Test - Automation - UI
  
