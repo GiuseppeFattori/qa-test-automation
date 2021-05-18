@@ -16,7 +16,8 @@ O Objetivo do teste consiste em validar Login, senhas, emails e posiveis Falhas 
 
 TESTE/
 
-![github img](https://user-images.githubusercontent.com/84185822/118703419-72bbb080-b7ec-11eb-963f-90cd60e67a92.png)
+![Sem título](https://user-images.githubusercontent.com/84185822/118703597-a8f93000-b7ec-11eb-848e-6b8189a8bd56.png)
+
 
 **Reaproveitamento dos métodos**
 Todos os métodos que forem iguais entre as plataformas devem estar em módulos e incluídos nas screens que fizerem sentido, como no exemplo abaixo:
