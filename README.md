@@ -61,3 +61,18 @@ TESTE/
         └───screenshots
                 adicionar_item.png
                 login_usuario.png
+                
+**Reaproveitamento dos métodos**
+Todos os métodos que forem iguais entre as plataformas devem estar em módulos e incluídos nas screens que fizerem sentido, como no exemplo abaixo:
+
+**Modulo:**
+
+module ExampleModule
+	
+  def confirm_action
+    enter('Outro teste', email_field)
+    enter('1199990000', phone_field)
+    wait_for_element_then_touch(btn_confirm)
+  end
+  
+end
