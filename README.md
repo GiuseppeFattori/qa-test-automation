@@ -14,8 +14,6 @@ O Objetivo do teste consiste em validar Login, senhas, emails e posiveis Falhas 
 
 **Como o projeto está organizado.**
 
-TESTE/
-
 ![Sem título](https://user-images.githubusercontent.com/84185822/118703597-a8f93000-b7ec-11eb-848e-6b8189a8bd56.png)
 
 
