@@ -9,6 +9,7 @@ GEM
       zeitwerk (~> 2.3)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
+    ast (2.4.2)
     builder (3.2.4)
     capybara (3.35.3)
       addressable
@@ -70,6 +71,9 @@ GEM
     multi_test (0.1.2)
     nokogiri (1.11.3-x64-mingw32)
       racc (~> 1.4)
+    parallel (1.20.1)
+    parser (3.0.1.1)
+      ast (~> 2.4.1)
     passgen (1.2.0)
     protobuf-cucumber (3.10.8)
       activesupport (>= 3.2)
@@ -84,7 +88,9 @@ GEM
     rack (2.2.3)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
+    rainbow (3.0.0)
     regexp_parser (2.1.1)
+    rexml (3.2.5)
     rspec (3.10.0)
       rspec-core (~> 3.10.0)
       rspec-expectations (~> 3.10.0)
@@ -98,6 +104,18 @@ GEM
       diff-lcs (>= 1.2.0, < 2.0)
       rspec-support (~> 3.10.0)
     rspec-support (3.10.2)
+    rubocop (1.15.0)
+      parallel (~> 1.10)
+      parser (>= 3.0.0.0)
+      rainbow (>= 2.2.2, < 4.0)
+      regexp_parser (>= 1.8, < 3.0)
+      rexml
+      rubocop-ast (>= 1.5.0, < 2.0)
+      ruby-progressbar (~> 1.7)
+      unicode-display_width (>= 1.4.0, < 3.0)
+    rubocop-ast (1.5.0)
+      parser (>= 3.0.1.1)
+    ruby-progressbar (1.11.0)
     rubyzip (2.3.0)
     selenium-webdriver (3.142.7)
       childprocess (>= 0.5, < 4.0)
@@ -108,6 +126,7 @@ GEM
     thread_safe (0.3.6)
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
+    unicode-display_width (2.0.0)
     xpath (3.2.0)
       nokogiri (~> 1.8)
     zeitwerk (2.4.2)
@@ -123,6 +142,7 @@ DEPENDENCIES
   passgen
   pry
   rspec
+  rubocop
   selenium-webdriver
 
 BUNDLED WITH
