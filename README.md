@@ -35,13 +35,9 @@ Todos os métodos que forem iguais entre as plataformas devem estar em módulos 
 
 Ruby (Seguir a ordem dos comando abaixo)
 
-cucumber --init 
+![4](https://user-images.githubusercontent.com/84185822/118706714-135f9f80-b7f0-11eb-9008-658d5e6dad5b.png)
 
-(para serem Criadas as Pastas do Diretorio)
-
-bundler install 
-
-(para os gems sejam instaladas no diretotio)
+![5](https://user-images.githubusercontent.com/84185822/118706751-1b1f4400-b7f0-11eb-818b-9a0fb4f123b7.png)
 
 
 
